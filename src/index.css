@@ -6,6 +6,7 @@
 }
 
 body{
+  background:url('./assets/Screenshot\ 2025-02-11\ 192212.png');
   font-family:'Outfit', 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell', 'Fira sans' 'Droid sans', 'helvet', 'sans-serif';
   -webkit-font-smoothing:antialiased;
   -moz-osx-font-smoothing:grayscale;
